@@ -86,8 +86,8 @@ Interactive slicers allow filtering by:
 
 ## Customer analysis
 
--  Digital Wallets was the most preffered mode of overall payment.
--  In-store orders slightly exceeded Takeaway orders by 2%.
+-  Digital Wallets was the most preffered mode of overall payment by 23%.
+-  Customers prefer in-store by a whooping 31% compared to takeway(29%)
 -  People preferred to pay by cash than Digital wallets more in in-place orders and vice versa for takeaway.
   
 ## Data Quality Findings
